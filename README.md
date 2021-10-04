@@ -17,14 +17,14 @@ My name is Nethmini Pathumi Hettiarachchi. My good name is Pathumi. I am 19 year
   
 # Other Skills
 
- <p>Fluent in English and Sinhala.<b>
+ <p>Fluent in English and Sinhala.<br>
   
   Can draw really well.</p>
  
   
 # Hobbies
   
-<p>Likes to read books, articles, journals.<b>
+<p>Likes to read books, articles, journals.<br>
   
   Likes to draw and paint.</p>
   
