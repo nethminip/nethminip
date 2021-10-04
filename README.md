@@ -20,3 +20,8 @@ My name is Nethmini Pathumi Hettiarachchi. My good name is Pathumi. I am 19 year
 <p>Likes to read books, articles, journals.<b>
   Likes to draw and paint</p>
   
+# Link to downloadable resume
+[hs21918674_hettiarachchi-N-P.pdf](https://github.com/nethminip/nethminip.github.io/files/7280787/hs21918674_hettiarachchi-N-P.pdf)
+  
+# Contact Details
+  <nethminipathumi101@gmail.com>
