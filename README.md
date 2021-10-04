@@ -1,6 +1,6 @@
 # About me
 
-My name is Nethmini Pathumi Hettiarachchi. My good name is Pathumi. I am 19 years old. I am currently an undergaduate at SLIIT doing the BSc.(Hons) in Biotechnology degree. I am a reliable and a hardworking person.
+My name is Nethmini Pathumi Hettiarachchi. My good name is Pathumi. I am 19 years old. I am currently an undergaduate at SLIIT doing the BSc.(Hons) in Biotechnology degree. I am a reliable and a hardworking person.I am willing to obtain an entry-level position in a research organization as an undergraduate in Biotechnology that will provide an opportunity for me to use my organizational and critical thinking skills to discover new aspects in science.
 
 ![Image20210803094747](https://user-images.githubusercontent.com/91866737/135903475-a13c1922-0159-4223-983b-5825ad2b4a63.jpg)
   
